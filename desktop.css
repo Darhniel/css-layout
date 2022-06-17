@@ -1,0 +1,19 @@
+@media screen and  (min-width: 1000px) {
+    main {
+        display: flex;
+    }
+    h2 {
+        margin-bottom: 2.5rem;
+    }
+    p {
+        margin-bottom: 6rem;
+    }
+    div.sedans {
+        border-top-right-radius: 0;
+        border-bottom-left-radius: .5rem;
+    }
+    div.luxury {
+        border-bottom-left-radius: 0;
+        border-top-right-radius: .5rem;
+    }
+}
